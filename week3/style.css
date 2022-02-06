@@ -1,7 +1,22 @@
 body{
-  background-color: red;
+  background-color: #643A71;
   font-family: 'Playfair Display', serif;
 }
 h1{
+  color: #FEC0CE;
   font-family: 'Playball', cursive;
+  font-size: 25px;
+}
+h2{
+  color: #FEC0CE;
+  font-family: 'Playball', cursive;
+  font-size: 20px;
+}
+#ingredients{
+  background-color: #8B5FBF;
+  color: #FEC0CE;
+}
+#instructions{
+  background-color: #8B5FBF;
+  color: #FEC0CE;
 }
