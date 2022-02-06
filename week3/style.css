@@ -5,12 +5,12 @@ body{
 h1{
   color: #FEC0CE;
   font-family: 'Playball', cursive;
-  font-size: 25px;
+  font-size: 35px;
 }
 h2{
   color: #FEC0CE;
   font-family: 'Playball', cursive;
-  font-size: 20px;
+  font-size: 30px;
 }
 #ingredients{
   background-color: #8B5FBF;
@@ -18,5 +18,8 @@ h2{
 }
 #instructions{
   background-color: #8B5FBF;
+  color: #FEC0CE;
+}
+#headinginfo {
   color: #FEC0CE;
 }
