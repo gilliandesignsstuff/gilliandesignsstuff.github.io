@@ -42,7 +42,6 @@ h2{
 }
 /*testing out image example from W3 Schools*/
 #image{
-  background-image: url("images\chickengnocchi.jpg"); /* The image used */
   background-color: #cccccc; /* Used if the image is unavailable */
   height: 500px; /* You must set a specified height */
   background-position: center; /* Center the image */
