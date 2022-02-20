@@ -40,11 +40,14 @@ h2{
   border-style: solid none;
   border-color: #B6AD90;
 }
-
+/*testing out image example from W3 Schools*/
 #image{
-  width:100%
-  display: block;
-  float: center;
+  background-image: url("images\chickengnocchi.jpg"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
 }
 header{
   width: 90%;
