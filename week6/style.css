@@ -1,0 +1,63 @@
+body{
+  margin: 0;
+  background-color: #333D29;
+  font-family: 'Playfair Display', serif;
+  font-size: 22.50px;
+}
+/*TYPOGRAPHY AND COLOR*/
+h1{
+  color: #A68A64;
+  font-size: 54.93px;
+  margin-bottom: 0;
+}
+h2{
+  color: #A68A64;
+  font-size: 35.16px;
+}
+#ingredients{
+  background-color: #A4AC86;
+  color: #C2C5AA;
+}
+#instructions{
+  background-color: #A4AC86;
+  color: #C2C5AA;
+}
+#headinginfo {
+  color: #C2C5AA;
+}
+/* POSITIONING */
+#decor-container{
+  width:70%;
+  margin: auto;
+  background-color: #C2C5AA;
+}
+#container{
+  width: 90%;
+  display: block;
+  margin: auto;
+  background-color: #C2C5AA;
+  padding:0 15px;
+  border-style: solid none;
+  border-color: #B6AD90;
+}
+
+#image{
+  width:100%
+  display: block;
+  float: center;
+}
+header{
+  width: 90%;
+  background-color: #936639;
+  padding: 5%;
+}
+#ingredients{
+  width: 35%;
+  float: center;
+  padding: 1% 5%;
+}
+#instructions{
+  clear: both;
+  padding: 1% 5%;
+  border-top: 2px dashed #B6AD90;
+}
