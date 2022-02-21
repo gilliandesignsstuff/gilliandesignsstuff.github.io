@@ -7,12 +7,12 @@ body{
 }
 /*TYPOGRAPHY AND COLOR*/
 h1{
-  color: #A68A64;
+  color: #A4AC86;
   font-size: 3.052rem;
   margin-bottom: 0;
 }
 h2{
-  color: #A68A64;
+  color: #A4AC86;
   font-size: 1.953rem;
 }
 
@@ -52,7 +52,7 @@ header{
   background-color: #A4AC86;
   color: #C2C5AA;
   width: 35%;
-  float: center;
+  clear:both;
   padding: 1% 5%;
 }
 #instructions{
