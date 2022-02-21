@@ -20,16 +20,16 @@ h2{
 #decor-container{
   width:70%;
   margin: auto;
-  background-color: #C2C5AA;
+  background-color: #936639;
 }
 #container{
   width: 90%;
   display: block;
   margin: auto;
-  background-color: #C2C5AA;
+  background-color: #936639;
   padding:0 15px;
   border-style: solid none;
-  border-color: #B6AD90;
+  border-color: black;
 }
 /*testing out image example from W3 Schools*/
 /*link to that test: https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_background_hero*/
