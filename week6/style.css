@@ -2,29 +2,20 @@ body{
   margin: 0;
   background-color: #333D29;
   font-family: 'Playfair Display', serif;
-  font-size: 22.50px;
+  font-size: 1.25rem;
+  line-height: 1.4;
 }
 /*TYPOGRAPHY AND COLOR*/
 h1{
   color: #A68A64;
-  font-size: 54.93px;
+  font-size: 3.052rem;
   margin-bottom: 0;
 }
 h2{
   color: #A68A64;
-  font-size: 35.16px;
+  font-size: 1.953rem;
 }
-#ingredients{
-  background-color: #A4AC86;
-  color: #C2C5AA;
-}
-#instructions{
-  background-color: #A4AC86;
-  color: #C2C5AA;
-}
-#headinginfo {
-  color: #C2C5AA;
-}
+
 /* POSITIONING */
 #decor-container{
   width:70%;
@@ -41,7 +32,7 @@ h2{
   border-color: #B6AD90;
 }
 /*testing out image example from W3 Schools*/
-#image{
+img{
   background-color: #cccccc; /* Used if the image is unavailable */
   height: 500px; /* You must set a specified height */
   background-position: center; /* Center the image */
@@ -53,12 +44,19 @@ header{
   background-color: #936639;
   padding: 5%;
 }
+#headinginfo {
+  color: #C2C5AA;
+}
 #ingredients{
+  background-color: #A4AC86;
+  color: #C2C5AA;
   width: 35%;
   float: center;
   padding: 1% 5%;
 }
 #instructions{
+  background-color: #A4AC86;
+  color: #C2C5AA;
   clear: both;
   padding: 1% 5%;
   border-top: 2px dashed #B6AD90;
