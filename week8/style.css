@@ -33,7 +33,7 @@ h2{
 }
 /*testing out image example from W3 Schools*/
 /*link to that test: https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_background_hero*/
-img{
+#image{
   background-color: #cccccc; /* Used if the image is unavailable */
   height: auto; /* You must set a specified height */
   background-position: center; /* Center the image */
@@ -59,7 +59,30 @@ header{
 #instructions{
   background-color: #A4AC86;
   color: #333D29;
-  clear: both;
+  width: 40%;
+  float: right;
   padding: 1% 5%;
   border-top: 2px dashed #333D29;
+}
+/* mobile set up*/
+@media only screen and (max-width: 600 px){
+  header{
+    width:95%;padding:2%;
+  }
+  #headinginfo{
+    width:90%;
+    padding:5%;
+  }
+  #ingredients{
+    width:95%;
+    padding:5%;
+  }
+  #instructions{
+    width:100%;
+    padding:5%;
+  }
+  article{
+    width:100%;
+    padding:5%;
+  }
 }
