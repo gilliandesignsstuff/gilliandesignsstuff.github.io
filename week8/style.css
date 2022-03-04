@@ -4,11 +4,6 @@ body{
   font-family: 'Playfair Display', serif;
   font-size: 1.25rem;
   line-height: 1.4;
-  background-image: "chickengnocchi.jpg"; /* Used if the image is unavailable */
-  height: auto; /* You must set a specified height */
-  background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover; /* Resize the background image to cover the entire container */
   width: 100%
 }
 /*TYPOGRAPHY AND COLOR*/
@@ -50,6 +45,12 @@ header{
 #ingredients{
   background-color: #A4AC86;
   color: #333D29;
+  width: 45%;
+  float: left;
+  padding: 1% 2%;
+  border-radius: 25px;
+}
+#image{
   width: 45%;
   float: left;
   padding: 1% 2%;
