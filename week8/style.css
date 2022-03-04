@@ -54,14 +54,14 @@ header{
   color: #333D29;
   width: 35%;
   float: left;
-  padding: 1% 5%;
+  padding: 1% 2%;
 }
 #instructions{
   background-color: #A4AC86;
   color: #333D29;
   width: 40%;
   float: right;
-  padding: 1% 5%;
+  padding: 1% 2%;
 }
 footer{
   text-align: center;
