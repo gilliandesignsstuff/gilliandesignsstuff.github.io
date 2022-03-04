@@ -52,6 +52,7 @@ header{
   margin-bottom: 20px;
 }
 #image{
+  display: block;
   width: 45%;
   float: left;
   padding: 5%;
