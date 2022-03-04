@@ -4,6 +4,12 @@ body{
   font-family: 'Playfair Display', serif;
   font-size: 1.25rem;
   line-height: 1.4;
+  background-image: "chickengnocchi.jpg"; /* Used if the image is unavailable */
+  height: auto; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  width: 100%
 }
 /*TYPOGRAPHY AND COLOR*/
 h1{
@@ -33,14 +39,6 @@ h2{
 }
 /*testing out image example from W3 Schools*/
 /*link to that test: https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_background_hero*/
-#image{
-  background-color: #cccccc; /* Used if the image is unavailable */
-  height: auto; /* You must set a specified height */
-  background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover; /* Resize the background image to cover the entire container */
-  width: 100%
-}
 header{
   width: 90%;
   background-color: #936639;
