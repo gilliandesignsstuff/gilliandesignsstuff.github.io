@@ -63,6 +63,10 @@ header{
   float: right;
   padding: 1% 5%;
 }
+footer{
+  text-align: center;
+  clear: both;
+}
 /* mobile set up*/
 @media only screen and (max-width: 600 px){
   header{
