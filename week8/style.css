@@ -45,8 +45,7 @@ header{
 #image{
   display: block;
   width: 45%;
-  float: left;
-  clear:both;
+  float: right;
   padding: 5%;
   border-radius: 25px;
 }
@@ -54,7 +53,7 @@ header{
   background-color: #A4AC86;
   color: #333D29;
   width: 45%;
-  float: left;
+  float: right;
   padding: 1% 2%;
   border-radius: 25px;
   margin-bottom: 20px;
