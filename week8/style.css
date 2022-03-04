@@ -65,6 +65,7 @@ header{
 footer{
   text-align: center;
   clear: both;
+  margin: 10 px;
 }
 /* mobile set up*/
 @media only screen and (max-width: 600 px){
