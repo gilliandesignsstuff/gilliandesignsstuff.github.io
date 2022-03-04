@@ -46,9 +46,9 @@ header{
   display: block;
   width: 45%;
   float: left;
+  clear:both;
   padding: 5%;
   border-radius: 25px;
-  margin-bottom: 20px;
 }
 #ingredients{
   background-color: #A4AC86;
