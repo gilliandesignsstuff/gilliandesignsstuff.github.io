@@ -32,8 +32,6 @@ h2{
   border-style:2px solid none;
   border-color: #333D29;
 }
-/*testing out image example from W3 Schools*/
-/*link to that test: https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_background_hero*/
 header{
   width: 90%;
   background-color: #936639;
@@ -41,13 +39,12 @@ header{
 }
 #headinginfo {
   color: #A4AC86;
+  clear:both;
 }
 #image{
   display: block;
   width: 45%;
   float: right;
-  padding: 5%;
-  border-radius: 25px;
 }
 #ingredients{
   background-color: #A4AC86;
