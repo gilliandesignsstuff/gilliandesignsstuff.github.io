@@ -50,7 +50,7 @@ header{
 #ingredients{
   background-color: #A4AC86;
   color: #333D29;
-  width: 40%;
+  width: 45%;
   float: left;
   padding: 1% 2%;
   border-radius: 25px;
@@ -58,8 +58,8 @@ header{
 #instructions{
   background-color: #A4AC86;
   color: #333D29;
-  width: 40%;
-  float: right;
+  width: 95%;
+  float: left;
   clear:both;
   padding: 1% 2%;
   border-radius: 25px;
