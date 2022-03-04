@@ -49,12 +49,14 @@ header{
   float: left;
   padding: 1% 2%;
   border-radius: 25px;
+  margin-bottom: 20px;
 }
 #image{
   width: 45%;
   float: left;
   padding: 1% 2%;
   border-radius: 25px;
+  margin-bottom: 20px;
 }
 #instructions{
   background-color: #A4AC86;
