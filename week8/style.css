@@ -1,0 +1,65 @@
+body{
+  margin: 0;
+  background-color: #333D29;
+  font-family: 'Playfair Display', serif;
+  font-size: 1.25rem;
+  line-height: 1.4;
+}
+/*TYPOGRAPHY AND COLOR*/
+h1{
+  color: #C2C5AA;
+  font-size: 3.052rem;
+  margin-bottom: 0;
+}
+h2{
+  color: #333D29;
+  font-size: 1.953rem;
+}
+
+/* POSITIONING */
+#decor-container{
+  width:70%;
+  margin: auto;
+  background-color: #936639;
+}
+#container{
+  width: 90%;
+  display: block;
+  margin: auto;
+  background-color: #936639;
+  padding:0 15px;
+  border-style:2px solid none;
+  border-color: #333D29;
+}
+/*testing out image example from W3 Schools*/
+/*link to that test: https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_background_hero*/
+img{
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: auto; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  width: 100%
+}
+header{
+  width: 90%;
+  background-color: #936639;
+  padding: 5%;
+}
+#headinginfo {
+  color: #A4AC86;
+}
+#ingredients{
+  background-color: #A4AC86;
+  color: #333D29;
+  width: 35%;
+  clear:both;
+  padding: 1% 5%;
+}
+#instructions{
+  background-color: #A4AC86;
+  color: #333D29;
+  clear: both;
+  padding: 1% 5%;
+  border-top: 2px dashed #333D29;
+}
