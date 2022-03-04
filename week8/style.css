@@ -50,7 +50,7 @@ header{
   background-color: #A4AC86;
   color: #333D29;
   width: 45%;
-  float: right;
+  clear: right;
   padding: 1% 2%;
   border-radius: 25px;
   margin-bottom: 20px;
