@@ -61,6 +61,7 @@ header{
   color: #333D29;
   width: 40%;
   float: right;
+  clear:both;
   padding: 1% 5%;
   border-top: 2px dashed #333D29;
 }
