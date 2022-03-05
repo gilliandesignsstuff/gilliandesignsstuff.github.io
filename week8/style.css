@@ -46,6 +46,7 @@ header{
   float: right;
   margin:0;
   padding:0;
+  clear:both;
 }
 #ingredients{
   background-color: #A4AC86;
