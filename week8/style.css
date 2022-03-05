@@ -32,6 +32,10 @@ h2{
   border-style:2px solid none;
   border-color: #333D29;
 }
+#image{
+  display: block;
+  width: 100%;
+}
 header{
   width: 90%;
   background-color: #936639;
@@ -41,10 +45,6 @@ header{
 #headinginfo {
   color: #A4AC86;
   float: right;
-}
-#image{
-  display: block;
-  width: 100%;
 }
 #ingredients{
   background-color: #A4AC86;
