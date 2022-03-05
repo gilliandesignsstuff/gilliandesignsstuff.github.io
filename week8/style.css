@@ -36,17 +36,15 @@ header{
   width: 90%;
   background-color: #936639;
   padding: 5%;
+  float: right;
 }
 #headinginfo {
   color: #A4AC86;
+  float: right;
 }
 #image{
   display: block;
-  width: 45%;
-  float: right;
-  margin:0;
-  padding:0;
-  clear:both;
+  width: 100%;
 }
 #ingredients{
   background-color: #A4AC86;
