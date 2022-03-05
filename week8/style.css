@@ -75,22 +75,22 @@ footer{
   }
   #image2{
     max-height: 200px;
+    float: none;
   }
   #headinginfo{
     width:90%;
     padding:5%;
+    float: none;
   }
   #ingredients{
     width:95%;
     padding:5%;
+    float: none;
   }
   #instructions{
     width:95%;
     padding:5%;
     border-top: 2px dashed #333D29;
-  }
-  article{
-    width:100%;
-    padding:5%;
+    float: none;
   }
 }
