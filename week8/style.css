@@ -93,4 +93,7 @@ footer{
     border-top: 2px dashed #333D29;
     float: none;
   }
+  #decor-container{
+    width:95%;
+  }
 }
