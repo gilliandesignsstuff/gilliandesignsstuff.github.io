@@ -35,6 +35,7 @@ h2{
 #image{
   display: block;
   width: 100%;
+  clear:both;
 }
 header{
   width: 90%;
