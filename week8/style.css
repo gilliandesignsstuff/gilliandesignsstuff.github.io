@@ -39,18 +39,18 @@ header{
 }
 #headinginfo {
   color: #A4AC86;
-  clear:both;
 }
 #image{
   display: block;
   width: 45%;
   float: right;
+  margin:0;
+  padding:0;
 }
 #ingredients{
   background-color: #A4AC86;
   color: #333D29;
   width: 45%;
-  clear: right;
   padding: 1% 2%;
   border-radius: 25px;
   margin-bottom: 20px;
