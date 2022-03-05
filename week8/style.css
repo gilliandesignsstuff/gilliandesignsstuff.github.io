@@ -73,6 +73,9 @@ footer{
 }
 /* mobile set up*/
 @media only screen and (max-width: 425 px){
+  body{
+    background-color: red;
+  }
   header{
     width:95%;padding:2%;
   }
