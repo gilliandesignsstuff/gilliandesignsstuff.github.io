@@ -41,16 +41,16 @@ header{
   width: 90%;
   background-color: #936639;
   padding: 5%;
-  float: right;
+  text-align: center;
 }
 #headinginfo {
   color: #A4AC86;
-  float: right;
+  text-align: center;
 }
 #ingredients{
   background-color: #A4AC86;
   color: #333D29;
-  width: 45%;
+  width: 95%;
   padding: 1% 2%;
   border-radius: 25px;
   margin-bottom: 20px;
