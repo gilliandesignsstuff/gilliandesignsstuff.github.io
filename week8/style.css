@@ -20,7 +20,7 @@ h2{
 /* POSITIONING */
 #decor-container{
   width:70%;
-  margin: auto;
+  margin: 0;
   background-color: #936639;
 }
 #container{
@@ -66,7 +66,7 @@ header{
 footer{
   text-align: center;
   clear: both;
-  margin: 10 px;
+  margin: 20 px;
 }
 /* mobile set up*/
 @media only screen and (max-width: 425 px){
